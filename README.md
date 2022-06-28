@@ -12,7 +12,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Modellind and Control of Quadrotor Helicopter - DIY](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Modelling and Control of Quadrotor Helicopter - DIY](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Dynamic Modelling of Aeroplanes - Background and Design Details](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
