@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Instrumenatation and Control System Sub-projects</b>
-  - [Modelling and Design of a Quadrotor Helicopter](https://github.com/Herbdoulhafeez-P:/QuadSpr2022)
+  - [Modelling and Design of a Quadrotor Helicopter](https://github.com/Herbdoulhafeez-P/QuadHelicopter/blob/main/README.md)
   - [Design and Simulation of a Complete Thermistor-Based Temperature Measurement System](https://github.com/Herbdoulhafeez-P:/NTCThermSpr2022)
   - [Design and Implementation of an Automated Workbench for a Bone Saw Machine](https://github.com/Herbdoulhafeez-P:/BSWkbenchAut2021)
   - [Design and Simulation of an Automatic Temperature Regulator for Domestic Residence](https://github.com/Herbdouhafeez-P:/DomTempRegJan2022)
